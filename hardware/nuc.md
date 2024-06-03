@@ -2,7 +2,7 @@
 title: NUC
 description: NUC 11 related table of contents
 published: true
-date: 2024-06-03T09:50:04.185Z
+date: 2024-06-03T10:27:42.979Z
 tags: hardware, homelab, nuc
 editor: markdown
 dateCreated: 2024-06-03T09:50:04.185Z
