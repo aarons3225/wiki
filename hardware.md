@@ -2,7 +2,7 @@
 title: Hardware
 description: Table of Contents for my hardware
 published: true
-date: 2024-06-03T09:56:57.160Z
+date: 2024-06-03T10:26:41.246Z
 tags: hardware, homelab
 editor: markdown
 dateCreated: 2024-06-03T09:56:57.160Z
