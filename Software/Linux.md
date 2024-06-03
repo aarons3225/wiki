@@ -2,7 +2,7 @@
 title: Linux
 description: Linux Table of Contents
 published: true
-date: 2024-06-03T10:09:52.803Z
+date: 2024-06-03T10:15:28.885Z
 tags: homelab, software, linux
 editor: markdown
 dateCreated: 2024-06-03T10:09:52.803Z
@@ -13,4 +13,4 @@ dateCreated: 2024-06-03T10:09:52.803Z
 
 - Ubuntu
 	- [Sources List](/Software/Linux/Sources-List)
-  - Swap & Disk Full Fix
+  - [Swap & Disk Full Fix](/Software/Linux/Swap-and-Disk-Full-Fix)
