@@ -1,8 +1,8 @@
 ---
-title: Plex Intro
+title: Plex
 description: Your introduction to Plex Media Server
 published: true
-date: 2024-06-17T06:02:58.854Z
+date: 2024-06-17T06:30:43.320Z
 tags: homelab, self-hosted, plex
 editor: markdown
 dateCreated: 2024-06-17T06:02:58.854Z
