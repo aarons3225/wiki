@@ -2,7 +2,7 @@
 title: Plex
 description: Your introduction to Plex Media Server
 published: true
-date: 2024-06-17T06:30:43.320Z
+date: 2024-06-17T07:42:15.921Z
 tags: homelab, self-hosted, plex
 editor: markdown
 dateCreated: 2024-06-17T06:02:58.854Z
@@ -35,3 +35,26 @@ Plex has many features. A couple that are very convenient are:
 Now I’ve mention in other posts about services like radarr and sonarr. Both of those are media library management software for movies and shows respectively. They can move your library en mass, keep track of series i.e. John Wick, rename your files, etc. 
 
 Renaming of files is perhaps the biggest reason for utilizing the services. Plex has a particular naming scheme to utilize the metadata matching. That’s why I am including those services here in this post. It’s an important piece that helps tie in the reason for having them in the first place. 
+
+# Installation
+
+- [Docker-Installation](/Software/Plex/Docker-Installation)
+- [Linux-Installation](/Software/Plex/Linux-Installation)
+
+
+#### For Client Side Apps
+- iOS
+	- [Plex App](https://apps.apple.com/us/app/plex-watch-live-tv-and-movies/id383457673)
+  - [Plexamp](https://apps.apple.com/us/app/plexamp/id1500797510)
+  - [Plex Dash](https://apps.apple.com/us/app/plex-dash/id1500797677)
+  - [Infuse](https://apps.apple.com/us/app/infuse-video-player/id1136220934)
+- MacOS
+	- [Plex](https://downloads.plex.tv/plex-desktop/1.94.1.155-f1e7f457/macos/Plex-1.94.1.155-f1e7f457-universal.zip?_gl=1*lrhtbp*_gcl_au*MTY1OTc2MzU0Ni4xNzE4NTE3MzIx*_ga*Njg0ODUwNzkzLjE3MTg1MTczMjE.*_ga_G6FQWNSENB*MTcxODYwOTc2Ny40LjEuMTcxODYwOTc2OS41OC4wLjA.)
+  - [Infuse](https://apps.apple.com/us/app/infuse-video-player/id1136220934)
+- TvOS
+	- Open the apps and search for the plex or infuse. 
+- Plus many more for other clients like android, nvidia shield, etc. etc. 
+
+# Updating
+
+Check out this updating script on my other post [HERE](/Software/Plex/Update-Plex-Script).
