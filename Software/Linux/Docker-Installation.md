@@ -2,7 +2,7 @@
 title: Docker-Installation
 description: How to install Plex Media Server
 published: true
-date: 2024-06-17T05:59:46.000Z
+date: 2024-06-17T06:00:45.238Z
 tags: homelab, self-hosted, plex
 editor: markdown
 dateCreated: 2024-06-17T05:59:46.000Z
